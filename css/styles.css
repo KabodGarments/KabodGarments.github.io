@@ -15,10 +15,11 @@ ul {
   line-height: 40px;
 }
 #jumbo{
-  float:right;
-  height:20em;
+  float:center;
+  height:5em;
+  width: 5em
 }
 body {
-  
+
     background-image: url("https://unsplash.com/photos/hSODeSbvzE0");
 }

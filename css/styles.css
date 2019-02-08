@@ -11,6 +11,16 @@ p {
   font-family: "latoWeb";
   line-height: 5
 }
+#button1 {
+  border-width: thick;
+  outline-style: solid;
+  outline color: rgba(255, 0, 0, 0.5);
+  height: 2em ;
+  width: 9em ;
+  text-align: center;
+  margin-left: 19em ;
+
+}
 ul {
   line-height: 40px;
 }

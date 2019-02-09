@@ -15,11 +15,7 @@ p {
   border-width: thick;
   outline-style: solid;
   outline color: rgba(255, 0, 0, 0.5);
-  height: 2em ;
-  width: 9em ;
-  text-align: center;
-  margin-left: 19em ;
-
+  length :8em;
 }
 ul {
   line-height: 2;
@@ -52,8 +48,29 @@ body {
   font-style: italic;
   text-align: left;
   float: left;
-  width: 350px;
+  width: 300px;
   border: 25px solid pink;
+  padding: 25px;
+  margin: 25px;
+  align-content: center;
+}
+.contact-me{
+  float:left;
+  line-height: 0.2;
+  width: 850px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  text-align: justify;
+  word-spacing: 0.05px;
+}
+.contact-details{
+  color: white;
+  font-style: italic;
+  text-align: left;
+  float: left;
+  width: 300px;
+  border: 25px solid silver;
   padding: 25px;
   margin: 25px;
   align-content: center;

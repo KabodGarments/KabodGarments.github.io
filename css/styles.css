@@ -9,7 +9,7 @@ h2 {
 }
 p {
   font-family: "latoWeb";
-  line-height: 5
+  line-height: 4
 }
 #button1 {
   border-width: thick;
@@ -22,7 +22,7 @@ p {
 
 }
 ul {
-  line-height: 40px;
+  line-height: 2;
 }
 #jumbo{
   float:center;
@@ -46,4 +46,15 @@ body {
   margin: 25px;
   text-align: justify;
   word-spacing: 0.05px;
+}
+.languages {
+  color: green;
+  font-style: italic;
+  text-align: left;
+  float: left;
+  width: 350px;
+  border: 25px solid pink;
+  padding: 25px;
+  margin: 25px;
+  align-content: center;
 }

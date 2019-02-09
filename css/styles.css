@@ -53,6 +53,7 @@ body {
   padding: 25px;
   margin: 25px;
   align-content: center;
+  text-shadow: 24;
 }
 .contact-me{
   float:left;
@@ -74,4 +75,14 @@ body {
   padding: 25px;
   margin: 25px;
   align-content: center;
+}
+.previous-projects{
+  float:right;
+  line-height: 0.2;
+  width: 300px;
+  border: 25px solid gray;
+  padding: 25px;
+  margin: 25px;
+  text-align: justify;
+  word-spacing: 0.05px;
 }

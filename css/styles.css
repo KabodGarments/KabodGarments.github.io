@@ -71,7 +71,7 @@ body {
   text-align: left;
   float: left;
   width: 300px;
-  border: 25px solid silver;
+  border: 25px solid red;
   padding: 25px;
   margin: 25px;
   align-content: center;
@@ -80,7 +80,7 @@ body {
   float:right;
   line-height: 0.2;
   width: 300px;
-  border: 25px solid gray;
+  border: 25px solid orange;
   padding: 25px;
   margin: 25px;
   text-align: justify;

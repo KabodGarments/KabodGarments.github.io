@@ -52,7 +52,7 @@ https://moringaschool.instructure.com
 Sample: https://choosealicense.com/licenses/agpl-3.0/
 
 # About Me
-My name is Nick Waweru. I have a legal and social science background. I have been a freelance Wordpress web developer for the last3 years since 2017.
+My name is Nick Waweru. I have a legal and social science background. I have been a freelance Wordpress web developer for the last 3 years since 2017.
 
 I found it very easy and interesting to practice web development via CMS like Wix.com and Wordpress, but at the same time i felt hindered and restricted in regards to becoming a full stack we developer as i could not understand the underlying of the web development industry as well as the platforms that i was already using.
 
